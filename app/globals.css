@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.h1 {
+    @apply text-4xl sm:text-5xl font-extrabold tracking-tight;
+}
+
+.h2 {
+    @apply text-2xl sm:text-3xl font-bold;
+}
+
+.lead {
+    @apply text-zinc-600;
+}
