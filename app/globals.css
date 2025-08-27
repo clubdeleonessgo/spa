@@ -1,5 +1,23 @@
 @import "tailwindcss";
 
+@theme {
+    --color-ong-blue: #102444;
+    --color-ong-yellow: #f9c910;
+    --color-ong-purple: #632574;
+    --color-ong-purple-2: #502985;
+    --color-ong-blue-2: #0a3dab;
+
+    --color-cause-enviroment: #74bd43;
+    --color-cause-hunger: #f58238;
+    --color-cause-vision: #5c266a;
+    --color-cause-diabetes: #67b1e2;
+    --color-cause-cancer: #f0c415;
+    --color-cause-youth: #0097a9;
+    --color-cause-humanitarian: #f9423a;
+    --color-cause-disaster: #440099;
+    --color-cause-health: #0d223f;
+}
+
 html {
     scroll-behavior: smooth;
 }
