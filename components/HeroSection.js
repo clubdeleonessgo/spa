@@ -5,11 +5,11 @@ export default function HeroSection() {
     const images = [
         "/header_0.jpg",
         "/header_1.jpg",
-        "/header_2.avif",
-        "/header_3.avif",
-        "/header_4.avif",
-        "/header_5.avif",
-        "/header_6.avif",
+        "/header_2.jpg",
+        "/header_3.jpg",
+        "/header_4.jpg",
+        "/header_5.jpg",
+        "/header_6.jpg",
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);

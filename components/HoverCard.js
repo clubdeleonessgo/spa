@@ -27,6 +27,8 @@ export default function HoverRevealCard({data}) {
         return () => clearInterval(interval);
     }, [enabled, data.src?.length]);
 
+    const height = 'h-60 xs:h-45';
+
     return (<div
             className="relative overflow-hidden h-full rounded-lg"
             onMouseEnter={onEnter}
@@ -38,7 +40,7 @@ export default function HoverRevealCard({data}) {
             >
                 <div
                     key={data.id}
-                    className={`rounded-lg text-white p-5 flex h-45 items-center flex-col 
+                    className={`rounded-lg text-white p-5 flex ${height} items-center flex-col 
                 justify-center ${data.color}`}
                 >
                     <img
@@ -56,7 +58,7 @@ export default function HoverRevealCard({data}) {
                     ${active ? "opacity-100 scale-100" : "opacity-0 scale-105"}`}
                 aria-hidden={!active}
             >
-                <div className={`relative overflow-hidden rounded-l-lg h-45 'col-span-1`}>
+                <div className={`relative overflow-hidden rounded-l-lg ${height} 'col-span-1`}>
                     {
                         data.src ?
                             data.src.map((img, i) => (
@@ -73,22 +75,25 @@ export default function HoverRevealCard({data}) {
                                     draggable={false}
                                     style={{willChange: "opacity"}}
                                 />))
-                            : <div className={`h-45  ${data.color}`}/>
+                            : <div className={`${height}  ${data.color}`}/>
                     }
                     <div className="absolute inset-0 pointer-events-none select-none">
                     </div>
                 </div>
-                <div className={`flex items-center rounded-r-lg col-span-2
-            text-white p-5 h-45  ${data.color}`}>
-                    <div className={'flex items-center flex-col lg:w-20 sm:w-24'}>
+                <div className={`flex flex-col justify-center xs:justify-start xs:flex-row items-center rounded-r-lg col-span-2
+            text-white p-3 xs:p-5 ${height}  ${data.color}`}>
+                    <div className={'flex items-center flex-col w-24'}>
                         <img
-                            className="sm:h-20 lg:h-12 object-cover rounded-lg"
+                            className="h-16 xs:h-18 sm:h-20 lg:h-12 object-cover rounded-lg"
                             src={"/images/" + data.image}
                             alt={data.title}
                         />
-                        <Counter value={data.value} className={"lg:text-3xl sm:text-4xl font-extrabold mt-2"}/>
+                        {
+                            data.value > 0  &&
+                            <Counter value={data.value} className={"lg:text-3xl sm:text-4xl font-extrabold mt-2"}/>
+                        }
                     </div>
-                    <ul className={`list-disc sm:text-xl lg:text-base pl-5 ml-4 ${data.black ? 'text-black' : 'text-white'}`}>
+                    <ul className={`list-disc text-base pl-1 xs:pl-5 ml-4 ${data.black ? 'text-black' : 'text-white'}`}>
                         {
                             data?.activities?.map((act, i) => {
                                 return <li key={i}>{act}</li>
