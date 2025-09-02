@@ -8,6 +8,7 @@ export default function Header() {
         { href: "#actividades", label: "Qué hacemos" },
         { href: "#sumarse", label: "Cómo sumarse" },
         { href: "#donar", label: "Cómo donar" },
+        { href: "#contacto", label: "Contacto" },
     ];
 
     return (

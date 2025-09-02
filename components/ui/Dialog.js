@@ -1,5 +1,6 @@
 "use client"
 import {useState} from "react";
+import {CopyButton} from "@/components/ui/CopyButton";
 
 export default function DonateDialog() {
     const [open, setOpen] = useState(false);
@@ -8,7 +9,7 @@ export default function DonateDialog() {
         <div>
             <button
                 onClick={() => setOpen(true)}
-                className="mt-4 inline-block bg-ong-yellow hover:bg-amber-500
+                className="mt-4 inline-block bg-ong-yellow hover:bg-amber-500 hover:cursor-pointer
                 text-black px-5 py-2 font-bold rounded-md">
                 Donar ahora
             </button>
@@ -38,8 +39,9 @@ export default function DonateDialog() {
 
                         <div className="p-4 space-y-2 text-sm">
                             <p><span className="font-semibold">Titular:</span> Asociación Civil Club de Leones Santiago del Estero</p>
-                            <p><span className="font-semibold">Alias:</span> LEONESSGO</p>
-                            <p><span className="font-semibold">CBU:</span> 0000003100000524728323</p>
+                            <p><span className="font-semibold">Alias:</span> LEONESSGO  <CopyButton text={'LEONESSGO'} /></p>
+                            <p><span className="font-semibold">CBU:</span> 0000003100000524728323  <CopyButton text={'0000003100000524728323'} /></p>
+
                             <p><span className="font-semibold">CUIT:</span> 30-71818708-3</p>
                         </div>
 

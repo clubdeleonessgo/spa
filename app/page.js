@@ -1,30 +1,26 @@
 import Header from "@/components/Header";
 import PhotoMosaic from "@/components/PhotoMosaic";
-import IndicatorsGrid from "@/components/IndicatorsGrid";
-import { causes, activities } from "@/data/siteData";
+import {causes} from "@/data/siteData";
 import {StadisticSection} from "@/components/StadisticSection";
 import Causes from "@/components/Causes";
 import Footer from "@/components/Footer";
-import {Activities} from "@/components/Activities";
 import {Donation} from "@/components/Donation";
 import {Joined} from "@/components/Joined";
 import HeroSection from "@/components/HeroSection";
+import {Contact} from "@/components/Contact";
 
 export default function HomePage() {
     return (
         <>
-            <Header />
+            <Header/>
 
             <HeroSection/>
 
             <StadisticSection/>
 
-            <PhotoMosaic />
+            <PhotoMosaic/>
 
-            <Causes items={causes}/>
-
-            {/* SECCIONES SPA */}
-            <section id="quienes" className="section my-20">
+            <section id="quienes" className="section my-20 scroll-mt-20">
                 <h2 className="h2 mb-2">Quiénes somos</h2>
                 <p className="text-zinc-700">
                     Somos el <strong>Club de Leones de Santiago del Estero</strong>, parte de la red internacional de
@@ -39,13 +35,13 @@ export default function HomePage() {
                 </p>
             </section>
 
-            <IndicatorsGrid items={causes}/>
-
-            <Activities items={activities}/>
+            <Causes items={causes}/>
 
             <Joined/>
 
             <Donation/>
+
+            <Contact/>
 
             <Footer/>
         </>
