@@ -6,7 +6,7 @@ export default function Causes({items}) {
             <h2 id="actividades" className="h2 mb-6 scroll-mt-20">Qué hacemos</h2>
             <div className="grid sm:grid-cols-1 lg:grid-cols-2 gap-4">
                 {items.map((it) => (
-                    <HoverRevealCard data={it}/>
+                    <HoverRevealCard key={it.id} data={it}/>
                 ))}
             </div>
         </section>

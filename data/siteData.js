@@ -2,9 +2,9 @@ export const topStats = [
     {id: "services", label: "Obras de servicio", value: 800},
     {id: "people", label: "Personas beneficiadas", value: 9500},
     {id: "courses", label: "Capacitaciones realizadas", value: 40},
-    {id: "courses", label: "Alianzas con instituciones", value: 10},
-    {id: "services", label: "Años de servicio", value: 7},
-    {id: "services", label: "Voluntarios", value: 100}
+    {id: "alliances", label: "Alianzas con instituciones", value: 10},
+    {id: "years", label: "Años de servicio", value: 7},
+    {id: "volunteers", label: "Voluntarios", value: 100}
 ];
 
 const enviroment_activities = [
