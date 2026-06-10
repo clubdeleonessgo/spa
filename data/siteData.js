@@ -9,7 +9,7 @@ export const topStats = [
 
 const enviroment_activities = [
     'Colecta de tapitas y cartones',
-    'Reciclado de ropa',
+    'Ropero solidario',
     'Plantación de árboles',
     'Cuidado de espacios verdes'
 ];
