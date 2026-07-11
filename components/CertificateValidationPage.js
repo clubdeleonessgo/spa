@@ -137,7 +137,7 @@ const StatusCard = ({ tone, title, message, action }) => {
     };
 
     return (
-        <section className={`rounded-3xl border p-6 shadow-sm sm:p-8 ${toneStyles[tone] || toneStyles.zinc}`}>
+        <section className={`rounded-3xl border p-6 m-2 shadow-sm sm:p-8 ${toneStyles[tone] || toneStyles.zinc}`}>
             <div className="flex flex-col gap-4">
                 <div className={`inline-flex w-fit rounded-full px-4 py-2 text-sm font-bold uppercase tracking-[0.2em] ${titleStyles[tone] || titleStyles.zinc}`}>
                     {title}
@@ -314,7 +314,7 @@ const CertificateValidationPage = () => {
                     action={(
                         <div className="space-y-4">
                             <p className="text-sm font-medium uppercase tracking-[0.2em] text-emerald-900/70">
-                                El presente certificado corresponde a:
+                                El certificado corresponde a:
                             </p>
                             <div className="rounded-3xl bg-white/80 p-4 sm:p-6">
                                 <h1 className="h2 text-emerald-950">{holder.fullName}</h1>
@@ -330,7 +330,7 @@ const CertificateValidationPage = () => {
                                 <DetailRow label="Actividad" value={payload?.activity} />
                                 <DetailRow label="Fecha de Actividad" value={payload?.issueDate} />
                                 <DetailRow label="Carga horaria" value={typeof payload?.hours === "number" ? `${payload.hours} horas` : payload?.hours} />
-                                <DetailRow label="Institución emisora" value={payload?.issuer || state.data?.issuer?.name || state.data?.issuerName} />
+                                <DetailRow label="Emitido por" value={payload?.issuer || state.data?.issuer?.name || state.data?.issuerName} />
                                 <DetailRow label="Información adicional" value={payload?.additionalInfo} />
                             </div>
                         </div>
@@ -414,7 +414,7 @@ const CertificateValidationPage = () => {
 
                     {content}
 
-                    <p className="mt-6 text-sm text-zinc-500">
+                    <p className="mt-6 mb-4 text-sm text-zinc-500">
                         La información mostrada proviene de la base de datos de la ONG.
                     </p>
                 </div>
