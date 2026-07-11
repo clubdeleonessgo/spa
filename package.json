@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "certificados:generar": "node scripts/generar-certificados-kv.mjs"
   },
   "dependencies": {
     "next": "14",

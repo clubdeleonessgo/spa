@@ -4,7 +4,7 @@ export const topStats = [
     {id: "courses", label: "Capacitaciones realizadas", value: 40},
     {id: "alliances", label: "Alianzas con instituciones", value: 5},
     {id: "years", label: "Años de servicio", value: 8},
-    {id: "volunteers", label: "Voluntarios", value: 100}
+    {id: "volunteers", label: "Voluntarios", value: 50}
 ];
 
 const enviroment_activities = [

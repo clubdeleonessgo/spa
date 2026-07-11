@@ -7,15 +7,12 @@ import Footer from "@/components/Footer";
 import {Donation} from "@/components/Donation";
 import {Joined} from "@/components/Joined";
 import HeroSection from "@/components/HeroSection";
-import EventPromoSection from "@/components/EventPromoSection";
 import {Contact} from "@/components/Contact";
 
 export default function HomePage() {
     return (
         <>
             <Header/>
-
-            {/*<EventPromoSection/>*/}
 
             <HeroSection/>
 
