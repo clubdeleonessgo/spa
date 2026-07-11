@@ -30,7 +30,7 @@ export default function Header({ simple = false }) {
                             className="md:hidden p-2 text-white"
                             onClick={() => setOpen(v => !v)}
                             aria-label="Abrir menÃº"
-                        >â˜°</button>
+                        >☰</button>
                     </>
                 )}
             </nav>

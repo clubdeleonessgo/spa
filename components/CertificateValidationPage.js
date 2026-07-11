@@ -34,9 +34,28 @@ const formatDocument = (documentValue) => {
     return String(documentValue || "").trim();
 };
 
+const normalizeApiBaseUrl = (baseUrl) => {
+    const trimmed = String(baseUrl || "").trim().replace(/\/+$/, "");
+
+    if (!trimmed) {
+        return "";
+    }
+
+    try {
+        return new URL(trimmed).toString().replace(/\/+$/, "");
+    } catch {
+        const protocol = trimmed.startsWith("localhost") || trimmed.startsWith("127.0.0.1") || trimmed.startsWith("0.0.0.0")
+            ? "http://"
+            : "https://";
+
+        return `${protocol}${trimmed}`;
+    }
+};
+
 const buildApiUrl = (id) => {
     const path = `/api/certificados/${encodeURIComponent(id)}`;
-    return CERTIFICADOS_API_BASE_URL ? `${CERTIFICADOS_API_BASE_URL.replace(/\/+$/, "")}${path}` : path;
+    const baseUrl = normalizeApiBaseUrl(CERTIFICADOS_API_BASE_URL);
+    return baseUrl ? `${baseUrl}${path}` : path;
 };
 
 const isValidationSuccess = (payload) => {
@@ -325,7 +344,7 @@ const CertificateValidationPage = () => {
                 <StatusCard
                     tone="amber"
                     title="CERTIFICADO NO ENCONTRADO"
-                    message={state.error || "No existe un certificado asociado al código indicado."}
+                    message={state.error || "No existe un certificado asociado al código escaneado."}
                     action={(
                         <a
                             href="/"

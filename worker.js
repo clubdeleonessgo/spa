@@ -149,7 +149,7 @@ async function handleCertificateApi(request, env) {
                 {
                     valid: false,
                     status: "NOT_FOUND",
-                    message: "No existe un certificado asociado al código indicado.",
+                    message: "No existe un certificado asociado al código escaneado.",
                 },
                 404,
                 buildCacheHeaders("public, max-age=300, s-maxage=300")
