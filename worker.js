@@ -37,6 +37,7 @@ function safeCertificatePayload(record) {
 
     return {
         number: record?.certificateNumber || null,
+        score: typeof record?.score === "number" ? record.score : record?.score ?? null,
         holder: {
             fullName: holder?.fullName || null,
             documentType: holder?.documentType || null,

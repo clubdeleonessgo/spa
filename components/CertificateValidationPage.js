@@ -31,8 +31,20 @@ const getIdFromPathname = (pathname) => {
 };
 
 const formatDocument = (documentValue) => {
-    return String(documentValue || "").trim();
+    const value = String(documentValue || "").trim()
+        .replace(/\./g, "")
+        .replace(/-/g, "")
+        .replace(/ /g, "");
+
+    return value.replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 };
+
+const toUpperCase = (value) => {
+    if (value == null) {
+        return value;
+    }
+    return value.toUpperCase();
+}
 
 const normalizeApiBaseUrl = (baseUrl) => {
     const trimmed = String(baseUrl || "").trim().replace(/\/+$/, "");
@@ -84,6 +96,7 @@ const parseLocalMockResponse = () => {
             valid: true,
             certificate: {
                 number: parsed?.certificateNumber || null,
+                score: typeof parsed?.score === "number" ? parsed.score : parsed?.score ?? null,
                 holder: {
                     fullName: holder?.fullName || null,
                     documentType: holder?.documentType || null,
@@ -317,7 +330,7 @@ const CertificateValidationPage = () => {
                                 El certificado corresponde a:
                             </p>
                             <div className="rounded-3xl bg-white/80 p-4 sm:p-6">
-                                <h1 className="h2 text-emerald-950">{holder.fullName}</h1>
+                                <h1 className="h2 text-emerald-950">{toUpperCase(holder.fullName)}</h1>
                                 {holder.document ? (
                                     <p className="mt-2 text-base font-semibold text-emerald-950">
                                         {holder.documentType ? `${holder.documentType}: ` : ""}
@@ -331,7 +344,7 @@ const CertificateValidationPage = () => {
                                 <DetailRow label="Fecha de Actividad" value={payload?.issueDate} />
                                 <DetailRow label="Carga horaria" value={typeof payload?.hours === "number" ? `${payload.hours} horas` : payload?.hours} />
                                 <DetailRow label="Emitido por" value={payload?.issuer || state.data?.issuer?.name || state.data?.issuerName} />
-                                <DetailRow label="Información adicional" value={payload?.additionalInfo} />
+                                <DetailRow label="Información adicional" value={`${payload?.additionalInfo}. Calificación: ${payload?.score}`} />
                             </div>
                         </div>
                     )}
