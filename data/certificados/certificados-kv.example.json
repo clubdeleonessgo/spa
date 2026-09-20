@@ -1,0 +1,14 @@
+[
+  {
+    "key": "cert:936b84a8-b429-47a6-9548-e406db78f097",
+    "value": "{\"version\":1,\"certificateNumber\":\"CER-00001-2026\",\"holder\":{\"fullName\":\"Denis Lionel Acosta\",\"documentType\":\"DNI\",\"document\":\"32123456\"},\"certificate\":{\"activity\":\"Escuelas en alerta: prevencion y la responsabilidad institucional\",\"issueDate\":\"2026-07-10\",\"hours\":4,\"additionalInfo\":\"Jornada aprobada\"},\"score\":100,\"issuer\":{\"name\":\"Club de Leones Santiago del Estero\"}}"
+  },
+  {
+    "key": "cert:7fbdc3fb-5e88-4c2f-b08d-7db993f44b67",
+    "value": "{\"version\":1,\"certificateNumber\":\"LEASE-2026-00126\",\"holder\":{\"fullName\":\"Maria Sol Fernandez\",\"documentType\":\"DNI\",\"document\":\"29876543\"},\"certificate\":{\"activity\":\"Jornada de voluntariado\",\"issueDate\":\"2026-06-18\",\"expirationDate\":null,\"hours\":8,\"additionalInfo\":\"Participacion aprobada\"},\"score\":95,\"issuer\":{\"name\":\"Club de Leones Santiago del Estero\"}}"
+  },
+  {
+    "key": "cert:2c9d8c5b-6d90-4f1c-8f3d-2f1d0e4f7a11",
+    "value": "{\"version\":1,\"certificateNumber\":\"LEASE-2025-00991\",\"holder\":{\"fullName\":\"Ana Lucia Gomez\",\"documentType\":\"DNI\",\"document\":\"27444555\"},\"certificate\":{\"activity\":\"Curso de formacion comunitaria\",\"issueDate\":\"2026-05-12\",\"expirationDate\":null,\"hours\":10,\"additionalInfo\":\"Participacion aprobada\"},\"score\":88,\"issuer\":{\"name\":\"Club de Leones Santiago del Estero\"}}"
+  }
+]

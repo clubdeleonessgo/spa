@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "8d172021-7504-491a-a911-34bc7ff4ff21",
+    "version": 1,
+    "certificateNumber": "CER-00077-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Nancy Raquel Coria",
+      "documentType": "DNI",
+      "document": "30319855"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "89161fcf-59d2-485c-9cf4-fa3a13ba4762",
+    "version": 1,
+    "certificateNumber": "CER-00076-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Mirta Marcela Morales",
+      "documentType": "DNI",
+      "document": "23048809"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "2206f5d5-e6b4-41ad-b721-21ca51a8c096",
+    "version": 1,
+    "certificateNumber": "CER-00075-2026",
+    "score": 8,
+    "holder": {
+      "fullName": "tevez lucas david",
+      "documentType": "DNI",
+      "document": "34878866"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "1aaf1bd8-cb2c-41ca-8c47-5570d742f7ae",
+    "version": 1,
+    "certificateNumber": "CER-00073-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "leisa anahi herrera",
+      "documentType": "DNI",
+      "document": "33956631"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "2bae981b-f8b4-4663-bb26-102e40198d55",
+    "version": 1,
+    "certificateNumber": "CER-00072-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "erika Antonella belizan",
+      "documentType": "DNI",
+      "document": "37651514"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "3c8fb903-a8f7-4155-921c-57a010aaf20c",
+    "version": 1,
+    "certificateNumber": "CER-00071-2026",
+    "score": 8,
+    "holder": {
+      "fullName": "deborah yanina montenegro",
+      "documentType": "DNI",
+      "document": "38227050"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "fb1542cd-c6d1-401f-aabd-8060f030f211",
+    "version": 1,
+    "certificateNumber": "CER-00070-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "cecilia vanesa masetto",
+      "documentType": "DNI",
+      "document": "28.696.673"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "bd66ea5d-82f6-4c55-86b8-d51f6fc76624",
+    "version": 1,
+    "certificateNumber": "CER-00069-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "cecilia carranza insaurralde",
+      "documentType": "DNI",
+      "document": "32685553"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "5905e703-c9d8-4fed-8069-09860c76132d",
+    "version": 1,
+    "certificateNumber": "CER-00068-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Yoana Alejandra Suarez",
+      "documentType": "DNI",
+      "document": "38482055"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "1ee83b9e-1afb-40bc-9d04-a201287c946f",
+    "version": 1,
+    "certificateNumber": "CER-00067-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Yessica Maricruz Diaz",
+      "documentType": "DNI",
+      "document": "35745849"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "0a548aa3-8850-4bf4-9882-5ee1064d17d0",
+    "version": 1,
+    "certificateNumber": "CER-00066-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Yesica Soledad Busto",
+      "documentType": "DNI",
+      "document": "34.231.194"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "0a075a44-adeb-4373-b0fe-8f15f1fbe210",
+    "version": 1,
+    "certificateNumber": "CER-00065-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Yanina Petrona Almeda",
+      "documentType": "DNI",
+      "document": "37128599"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "9c3034b5-37f2-4299-8358-ceb76d6d0244",
+    "version": 1,
+    "certificateNumber": "CER-00064-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Yanina Gabriela Quintero",
+      "documentType": "DNI",
+      "document": "30538871"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "36b3c632-77b5-4204-85d2-4a703a4616e3",
+    "version": 1,
+    "certificateNumber": "CER-00063-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Vega Santiago Facundo",
+      "documentType": "DNI",
+      "document": "44443006"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "a9f03cb6-ed9a-40b0-8b6b-e9e83a072939",
+    "version": 1,
+    "certificateNumber": "CER-00062-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Teresita Anabel Bravo",
+      "documentType": "DNI",
+      "document": "32685012"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "cdc91bef-bf4b-4b43-a295-7e585084f68c",
+    "version": 1,
+    "certificateNumber": "CER-00061-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Taboada Marcos Exequiel",
+      "documentType": "DNI",
+      "document": "34314577"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "01c80077-9f2b-4df4-951f-ae2dd7d061f6",
+    "version": 1,
+    "certificateNumber": "CER-00060-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Silvia Susana Sayago",
+      "documentType": "DNI",
+      "document": "27030584"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "c0a5781d-72d1-4622-b289-53853b1e4a1b",
+    "version": 1,
+    "certificateNumber": "CER-00059-2026",
+    "score": 8,
+    "holder": {
+      "fullName": "Santiago Baltazar Lugones",
+      "documentType": "DNI",
+      "document": "43.622.250"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "f096c7cb-a358-4ff6-b1ee-ef0aae0226c9",
+    "version": 1,
+    "certificateNumber": "CER-00058-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Romina Silvana Campos",
+      "documentType": "DNI",
+      "document": "38556077"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "31b643e5-bcca-4fc7-a1d1-d5efd79b0a36",
+    "version": 1,
+    "certificateNumber": "CER-00057-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Rita Carolina Amado",
+      "documentType": "DNI",
+      "document": "30627121"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "d75688fb-0dbf-42a3-ae31-ada3595a94f5",
+    "version": 1,
+    "certificateNumber": "CER-00056-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Perez  marcela yolanda",
+      "documentType": "DNI",
+      "document": "24840264"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "d3de01f6-3baa-4511-bf23-e323f5e38a62",
+    "version": 1,
+    "certificateNumber": "CER-00055-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Peralta Ivana",
+      "documentType": "DNI",
+      "document": "30772989"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "1a57d902-65a8-4d35-a221-c32f7cc26222",
+    "version": 1,
+    "certificateNumber": "CER-00054-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Paula Clemencia Monteros",
+      "documentType": "DNI",
+      "document": "41093289"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "553253f6-8caf-4747-a97d-71f1bf5f79da",
+    "version": 1,
+    "certificateNumber": "CER-00053-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Patricia Ayde Avila",
+      "documentType": "DNI",
+      "document": "41093364"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "6c81c274-4ad6-4d02-bf38-0feb1a173004",
+    "version": 1,
+    "certificateNumber": "CER-00052-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Paola Gimena Ailán",
+      "documentType": "DNI",
+      "document": "30684532"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "cc7521bc-61b2-4929-8a8b-1038a9b0006d",
+    "version": 1,
+    "certificateNumber": "CER-00051-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Ornella Casagrande Herrera",
+      "documentType": "DNI",
+      "document": "44069386"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "5374760b-e63d-4961-bdbc-fa66d8562bf3",
+    "version": 1,
+    "certificateNumber": "CER-00050-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Natalí Marisol Suarez",
+      "documentType": "DNI",
+      "document": "41299060"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "fe0957b9-9899-4335-9b5d-eca1b2f133c3",
+    "version": 1,
+    "certificateNumber": "CER-00049-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Mónica Alejandra Melín",
+      "documentType": "DNI",
+      "document": "33.638.123"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "f0dba41c-f2e2-4b52-9fe0-f42d69b85ed2",
+    "version": 1,
+    "certificateNumber": "CER-00048-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Monteros  Pamela  Yane",
+      "documentType": "DNI",
+      "document": "37443644"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "fa331bef-a500-4291-82a1-788b05b1de34",
+    "version": 1,
+    "certificateNumber": "CER-00047-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Monica Beatriz Celiz",
+      "documentType": "DNI",
+      "document": "24578661"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "e4bc3a33-ba5d-45a2-9566-53d020675309",
+    "version": 1,
+    "certificateNumber": "CER-00046-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Mirta Noemi Diaz",
+      "documentType": "DNI",
+      "document": "32529905"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "0480a523-a719-484e-b6e4-25721162069f",
+    "version": 1,
+    "certificateNumber": "CER-00045-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Milagros Anahí Acosta",
+      "documentType": "DNI",
+      "document": "42650586"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "b83d2b0a-5920-454e-9b97-59fefeb8d810",
+    "version": 1,
+    "certificateNumber": "CER-00044-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Micaela Vanina Quiroga",
+      "documentType": "DNI",
+      "document": "37735499"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "c64320ec-dd78-43ad-8619-2c764a86056d",
+    "version": 1,
+    "certificateNumber": "CER-00043-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Melany Anahí Perez Celiz",
+      "documentType": "DNI",
+      "document": "44602952"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "d7a14719-682b-452a-981d-62f7c5bf68ec",
+    "version": 1,
+    "certificateNumber": "CER-00042-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Maximiliano Martín Olivera",
+      "documentType": "DNI",
+      "document": "36044888"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "697ae83a-a1cd-4354-91d2-123165df898d",
+    "version": 1,
+    "certificateNumber": "CER-00041-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Matías Emmanuel Gonzalez",
+      "documentType": "DNI",
+      "document": "40333658"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "a316c0d2-d77c-4596-b2e2-0fa113d78f7c",
+    "version": 1,
+    "certificateNumber": "CER-00040-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "María Gisella Del Pino",
+      "documentType": "DNI",
+      "document": "35844017"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "062bf1f2-ff44-447b-8a98-0b535d5df9c7",
+    "version": 1,
+    "certificateNumber": "CER-00039-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "María Constanza Ríos Pedraza",
+      "documentType": "DNI",
+      "document": "40526946"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "32330925-b8c9-48cd-8c32-d0713cf959ee",
+    "version": 1,
+    "certificateNumber": "CER-00038-2026",
+    "score": 6,
+    "holder": {
+      "fullName": "Maria de los Angeles contreras",
+      "documentType": "DNI",
+      "document": "40984741"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "1e93c7aa-d15e-4070-a025-6743dbebafa9",
+    "version": 1,
+    "certificateNumber": "CER-00037-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Maria Eugenia Guzman",
+      "documentType": "DNI",
+      "document": "30917845"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "fbc5b1bb-bfbd-4885-865d-8749c10b6ab5",
+    "version": 1,
+    "certificateNumber": "CER-00036-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Maria Celeste Perez",
+      "documentType": "DNI",
+      "document": "40529363"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "63543007-33d1-4193-b2ed-d5eef62b9f41",
+    "version": 1,
+    "certificateNumber": "CER-00035-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Maria Agustina Sajur Gerez",
+      "documentType": "DNI",
+      "document": "39898215"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "d3506e9a-5e8a-4419-9bbb-f7fc21bb593f",
+    "version": 1,
+    "certificateNumber": "CER-00034-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Marcos Eic Sosa Guzman",
+      "documentType": "DNI",
+      "document": "32662762"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "80b679fc-c250-4dd3-9d42-305d170cb21f",
+    "version": 1,
+    "certificateNumber": "CER-00033-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Luciana gisela Pereyra",
+      "documentType": "DNI",
+      "document": "30684659"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "257a81ff-a40b-4033-b871-8a275791fc7e",
+    "version": 1,
+    "certificateNumber": "CER-00032-2026",
+    "score": 8,
+    "holder": {
+      "fullName": "Lourdes Erika Leal",
+      "documentType": "DNI",
+      "document": "34.243.565"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "a4733ddd-8a75-47e4-b580-b74338075bfd",
+    "version": 1,
+    "certificateNumber": "CER-00031-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Jorgelina Lucrecia Maldonado",
+      "documentType": "DNI",
+      "document": "38733931"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "224b8809-7b83-45f4-96c8-0550170d4f4e",
+    "version": 1,
+    "certificateNumber": "CER-00030-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Jimena Marilin Farias",
+      "documentType": "DNI",
+      "document": "44.071.100"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "ef5940f8-a64e-41af-9c72-91aca422391f",
+    "version": 1,
+    "certificateNumber": "CER-00029-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "JOSE ANTONIO BUSTO",
+      "documentType": "DNI",
+      "document": "26955448"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "f47320d5-15ef-47f9-8616-4e468eee5b85",
+    "version": 1,
+    "certificateNumber": "CER-00028-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Irina Valeria Acosta",
+      "documentType": "DNI",
+      "document": "40899187"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "53891d37-e3c9-4536-8c02-698537d7df31",
+    "version": 1,
+    "certificateNumber": "CER-00027-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Horacio Fabian Paladea",
+      "documentType": "DNI",
+      "document": "24901413"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "b35c341b-445f-4630-814a-b15e01d05af7",
+    "version": 1,
+    "certificateNumber": "CER-00026-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "HOYOS DANIELA LORENA",
+      "documentType": "DNI",
+      "document": "36878128"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "00ff9e80-15c5-46d0-ad63-7ccc8cecdf50",
+    "version": 1,
+    "certificateNumber": "CER-00025-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Guillermo Silvestre Villalba",
+      "documentType": "DNI",
+      "document": "33694064"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "4402eca3-e185-4ae7-9d0d-37b3e450f43f",
+    "version": 1,
+    "certificateNumber": "CER-00024-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Gramajo Belén Antonella",
+      "documentType": "DNI",
+      "document": "38721592"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "41b2a46e-2882-42b7-ab0e-75c2822358a8",
+    "version": 1,
+    "certificateNumber": "CER-00023-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "GladysDelvalle Pereyra",
+      "documentType": "DNI",
+      "document": "33617113"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "86c2dcc5-8fd7-48c4-89cf-bccdce0dcc44",
+    "version": 1,
+    "certificateNumber": "CER-00022-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Gissel soledad Gómez",
+      "documentType": "DNI",
+      "document": "38113488"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "7e75293c-d664-4c91-a426-33e1dbde27d6",
+    "version": 1,
+    "certificateNumber": "CER-00021-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Gimena Valeria Cordoba",
+      "documentType": "DNI",
+      "document": "40985510"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "85a7c453-6fc8-42a5-9f22-09fe54d19f58",
+    "version": 1,
+    "certificateNumber": "CER-00020-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Georgina Alejandra Ybarra",
+      "documentType": "DNI",
+      "document": "38718369"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "0dbe3417-2539-4b03-b160-e6545e185aeb",
+    "version": 1,
+    "certificateNumber": "CER-00019-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Gabriela Luciana Gómez",
+      "documentType": "DNI",
+      "document": "28744035"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "58a30f95-ad1b-4999-acea-7da62a5454b0",
+    "version": 1,
+    "certificateNumber": "CER-00018-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Florencia Agustina Olmos",
+      "documentType": "DNI",
+      "document": "45958721"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "10e5eb8c-1921-433e-83d3-b457e4392e92",
+    "version": 1,
+    "certificateNumber": "CER-00017-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Figueroa Claudia Elizabeth",
+      "documentType": "DNI",
+      "document": "25004555"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "29e27bec-e28a-421c-8990-7aae4be50df0",
+    "version": 1,
+    "certificateNumber": "CER-00016-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Fiama Julieta Márquez",
+      "documentType": "DNI",
+      "document": "38284943"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "b9e0eaa5-da01-4b23-96f0-83f00e328bf1",
+    "version": 1,
+    "certificateNumber": "CER-00015-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Fiama Carolina Arias",
+      "documentType": "DNI",
+      "document": "39582538"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "3d9b221c-1bf8-425b-b5a9-e4cf6ac689fb",
+    "version": 1,
+    "certificateNumber": "CER-00014-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Fernando Exequiel Jimenez",
+      "documentType": "DNI",
+      "document": "35917176"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "cf21da62-b26f-4c67-905d-e0b46daa8552",
+    "version": 1,
+    "certificateNumber": "CER-00013-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Fernanda Nair Flores Soria",
+      "documentType": "DNI",
+      "document": "37955655"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "61efd28d-cea5-4040-b9be-1522f6af09a1",
+    "version": 1,
+    "certificateNumber": "CER-00012-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Debora Gabriela Sequeira Juarez",
+      "documentType": "DNI",
+      "document": "41648882"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "be3c68ee-4cae-4ca9-8349-61dd7feda1c6",
+    "version": 1,
+    "certificateNumber": "CER-00011-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Daniela Agostina Santillan",
+      "documentType": "DNI",
+      "document": "39703704"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "bb6ea9b7-1b54-41a6-90f5-7d0d76396434",
+    "version": 1,
+    "certificateNumber": "CER-00010-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Daniel Eduardo Banegas",
+      "documentType": "DNI",
+      "document": "28246349"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "b0026b18-de18-4e02-9170-ca1608e0b593",
+    "version": 1,
+    "certificateNumber": "CER-00009-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Claudia Alejandra Taboada",
+      "documentType": "DNI",
+      "document": "22242176"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "893eb253-66d0-4af4-8829-c503d8b7be79",
+    "version": 1,
+    "certificateNumber": "CER-00008-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Celeste Daiana Luna",
+      "documentType": "DNI",
+      "document": "43.894.956"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "a717bdbe-da66-478d-b76f-d271e2d519bb",
+    "version": 1,
+    "certificateNumber": "CER-00007-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Carina Olegaria Santillán",
+      "documentType": "DNI",
+      "document": "30.507.455"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "b824d65f-2419-49a6-9ea2-dff9be6af438",
+    "version": 1,
+    "certificateNumber": "CER-00006-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Brenda Yanet Garcia",
+      "documentType": "DNI",
+      "document": "37443033"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "fd0a2131-0e6b-4a23-9c96-5f58d605b073",
+    "version": 1,
+    "certificateNumber": "CER-00005-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Andrea gissell sayago",
+      "documentType": "DNI",
+      "document": "38718933"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "1541503b-0359-409c-8d77-3ddf6edb3fcb",
+    "version": 1,
+    "certificateNumber": "CER-00004-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Analia Dora Galván",
+      "documentType": "DNI",
+      "document": "23687902"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "13471f72-32b4-4f32-8642-17f7237064d8",
+    "version": 1,
+    "certificateNumber": "CER-00003-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Alex Antonio Silvetti",
+      "documentType": "DNI",
+      "document": "45229543"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "ce0d164b-715b-4b01-98c1-acd3f0ea602f",
+    "version": 1,
+    "certificateNumber": "CER-00002-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Alejandra Alexis Anahí Melin",
+      "documentType": "DNI",
+      "document": "36878359"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  },
+  {
+    "id": "7b2d2454-e964-49db-b6dd-160d9f9a3f95",
+    "version": 1,
+    "certificateNumber": "CER-00001-2026",
+    "score": 10,
+    "holder": {
+      "fullName": "Agostina Anahi Pérez",
+      "documentType": "DNI",
+      "document": "44069466"
+    },
+    "certificate": {
+      "activity": " IV Jornada de Prevención de Violencias: Escuelas en alerta: prevención y la responsabilidad institucional",
+      "issueDate": "2026-07-13",
+      "hours": 4,
+      "additionalInfo": "Evaluación aprobada"
+    },
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "936b84a8-b429-47a6-9548-e406db78f097",
+    "version": 1,
+    "certificateNumber": "CER-00001-2026",
+    "holder": {
+      "fullName": "Denis Lionel Acosta",
+      "documentType": "DNI",
+      "document": "32123456"
+    },
+    "certificate": {
+      "activity": "Escuelas en alerta: prevencion y la responsabilidad institucional",
+      "issueDate": "2026-07-10",
+      "hours": 4,
+      "additionalInfo": "Jornada aprobada"
+    },
+    "score": 100,
+    "issuer": {
+      "name": "Club de Leones Santiago del Estero"
+    }
+  }
+]

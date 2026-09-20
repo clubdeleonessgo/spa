@@ -106,6 +106,7 @@ const parseLocalMockResponse = () => {
                 issueDate: certificate?.issueDate || null,
                 hours: typeof certificate?.hours === "number" ? certificate.hours : certificate?.hours ?? null,
                 additionalInfo: certificate?.additionalInfo || null,
+                category: parsed?.categoria || null,
                 issuer: parsed?.issuer?.name || parsed?.issuer?.title || parsed?.issuerName || null,
             },
             certificateNumber: parsed?.certificateNumber || null,
@@ -341,10 +342,16 @@ const CertificateValidationPage = () => {
                             <div className="grid gap-3 sm:grid-cols-2">
                                 <DetailRow label="Certificado N.º" value={state.data?.certificateNumber} />
                                 <DetailRow label="Actividad" value={payload?.activity} />
-                                <DetailRow label="Fecha de Actividad" value={payload?.issueDate} />
+                                <DetailRow label="Fecha de Actividad" value={payload?.issueDate} />                
                                 <DetailRow label="Carga horaria" value={typeof payload?.hours === "number" ? `${payload.hours} horas` : payload?.hours} />
                                 <DetailRow label="Emitido por" value={payload?.issuer || state.data?.issuer?.name || state.data?.issuerName} />
-                                <DetailRow label="Información adicional" value={`${payload?.additionalInfo}. Calificación: ${payload?.score}`} />
+                                {
+                                    payload?.category && <DetailRow label="Información adicional" value={`En calidad de ${payload?.category}.`} />
+                                }
+                                {
+                                    !payload?.category && <DetailRow label="Información adicional" value={`${payload?.additionalInfo}. Calificación: ${payload?.score}`} />
+                                }
+                                
                             </div>
                         </div>
                     )}
