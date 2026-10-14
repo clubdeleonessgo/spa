@@ -8,11 +8,14 @@ import {Donation} from "@/components/Donation";
 import {Joined} from "@/components/Joined";
 import HeroSection from "@/components/HeroSection";
 import {Contact} from "@/components/Contact";
+import EventPromoSection from "@/components/EventPromoSection";
 
 export default function HomePage() {
     return (
         <>
             <Header/>
+
+            <EventPromoSection/>
 
             <HeroSection/>
 

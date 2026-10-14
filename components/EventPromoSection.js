@@ -1,10 +1,23 @@
+"use client";
+
+import {useEffect, useState} from "react";
+
+const eventEndAt = new Date("2026-10-31T00:00:00-03:00").getTime();
 const eventTitle = "Jornada Virtual";
-const eventDescription = "Jueves 2 de Julio de 2026 - 17hs.";
-const eventName = "Escuelas en alerta: prevención y la responsabilidad institucional";
-const eventImage = "/images/jornada.jpg";
-const eventRegistrationUrl = "https://forms.gle/B22gCcAf1aQFujRT9";
+const eventDescription = "Viernes 30 de Octubre de 2026 - 18hs.";
+const eventName = "Cuando la violencia atraviesa la escuela:  Aportes de la Psicología en la intervención y articulación con el sistema de Justicia";
+const eventImage = "/images/jornada_violencia.jpg";
+const eventRegistrationUrl = "https://forms.gle/CX4Gbv5rKnGmwTiGA";
 
 export default function EventPromoSection() {
+    const [isVisible, setIsVisible] = useState(false);
+
+    useEffect(() => {
+        setIsVisible(Date.now() < eventEndAt);
+    }, []);
+
+    if (!isVisible) return null;
+
     return (
         <section className="bg-white border-b border-zinc-200">
             <div className="section py-10 sm:py-14">
