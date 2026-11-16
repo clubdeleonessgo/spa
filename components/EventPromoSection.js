@@ -2,12 +2,12 @@
 
 import {useEffect, useState} from "react";
 
-const eventEndAt = new Date("2026-10-31T00:00:00-03:00").getTime();
+const eventEndAt = new Date("2026-11-27T00:00:00-03:00").getTime();
 const eventTitle = "Jornada Virtual";
-const eventDescription = "Viernes 30 de Octubre de 2026 - 18hs.";
-const eventName = "Cuando la violencia atraviesa la escuela:  Aportes de la Psicología en la intervención y articulación con el sistema de Justicia";
-const eventImage = "/images/jornada_violencia.jpg";
-const eventRegistrationUrl = "https://forms.gle/CX4Gbv5rKnGmwTiGA";
+const eventDescription = "Viernes 27 de Noviembre de 2026 - 19hs.";
+const eventName = "¿CÓMO IDENTIFICAR, PREVENIR Y ACOMPAÑAR SITUACIONES DE CONSUMO PROBLEMÁTICO Y SUFRIMIENTO EMOCIONAL EN JOVENES DESDE LAS ESCUELAS?";
+const eventImage = "/images/jornada_consumo.jpg";
+const eventRegistrationUrl = "https://forms.gle/wYRDQrUQdH9LtEj59";
 
 export default function EventPromoSection() {
     const [isVisible, setIsVisible] = useState(false);
