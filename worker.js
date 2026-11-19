@@ -48,6 +48,7 @@ function safeCertificatePayload(record) {
         expirationDate: certificate?.expirationDate || null,
         hours: typeof certificate?.hours === "number" ? certificate.hours : certificate?.hours ?? null,
         additionalInfo: certificate?.additionalInfo || null,
+        isNoNumeric: certificate?.isNoNumeric === true,
         category: record?.categoria || null,
         issuer: record?.issuer?.name || record?.issuer?.title || record?.issuerName || null,
     };
