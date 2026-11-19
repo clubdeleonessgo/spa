@@ -106,6 +106,7 @@ const parseLocalMockResponse = () => {
                 issueDate: certificate?.issueDate || null,
                 hours: typeof certificate?.hours === "number" ? certificate.hours : certificate?.hours ?? null,
                 additionalInfo: certificate?.additionalInfo || null,
+                isNoNumeric: certificate?.isNoNumeric === true,
                 category: parsed?.categoria || null,
                 issuer: parsed?.issuer?.name || parsed?.issuer?.title || parsed?.issuerName || null,
             },
@@ -349,7 +350,7 @@ const CertificateValidationPage = () => {
                                     payload?.category && <DetailRow label="Información adicional" value={`En calidad de ${payload?.category}.`} />
                                 }
                                 {
-                                    !payload?.category && <DetailRow label="Información adicional" value={`${payload?.additionalInfo}. Calificación: ${payload?.score}`} />
+                                    !payload?.category && <DetailRow label="Información adicional" value={`${payload?.additionalInfo}. Calificación: ${payload?.isNoNumeric === true ? "APROBADO" : payload?.score}`} />
                                 }
                                 
                             </div>
